@@ -19,7 +19,7 @@ As causas estão agrupadas nas seguintes categorias:
 
 Cada uma dessas categorias apresenta causas específicas que, se não forem tratadas, podem impactar negativamente a experiência do usuário e a reputação da comunidade.
 
-![](/docs\Imagens\Diagrama_causa_efeitojpg.jpg)
+![](../Imagens/Diagrama_causa_efeitojpg.jpg)
 
 <center>
 
