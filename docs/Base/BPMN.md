@@ -2,6 +2,20 @@
 
 ## Introdução
 
+Segundo [(SERRANO)](#refêrencias), a Business Process Management Notation (BPMN) é uma notação padronizada para diagramação de fluxos de processos de negócio, adotada pelo consórcio internacional Object Management Group (OMG). Essa notação visa proporcionar uma representação gráfica clara e unificada dos processos, facilitando a comunicação entre stakeholders técnicos e não técnicos.
+
+A BPMN utiliza elementos como piscinas (pools), raias (lanes), atividades, eventos, gateways e conectores para modelar desde processos simples até fluxos complexos, incluindo subprocessos e reutilização de atividades (Serrano, 2019). Entre seus principais componentes destacam-se:
+
+- Piscinas/POOL: representam participantes do processo (internos ou externos);
+
+- Raias/LANE: organizam atividades por papéis ou departamentos;
+
+- Gateways: controlam divergências e convergências de fluxos (exclusivos, inclusivos, paralelos);
+
+- Eventos: marcam ocorrências que influenciam o processo (início, fim, intermediários).
+
+A notação é amplamente utilizada para mapear, analisar e melhorar processos organizacionais, sendo essencial para implementações de BPM (Business Process Management). Para Serrano (2019), a prática constante de modelagem é fundamental para dominar a BPMN, aliando teoria a exemplos concretos.
+
 ## Metodologia
 
 A modelagem BPMN da arquitetura da plataforma de guias de jogos seguiu uma abordagem dividida em etapas:
@@ -60,3 +74,4 @@ Cambridge University Press, 1998.
 |--------|------------------------------|------------------|---------|------------|----------------------|
 | 1.0    | Elaboração do documento      | [Fernando Gabriel](https://github.com/show-dawn) e [Vitor](https://github.com/vcpVitor) |         | 10/04/2025 | Versão inicial conclusão BPMN |
 | 1.0    | Adiciona metodologia e refêrencias      | [Júlio Cesar](https://github.com/Julio1099) e [Matheus Ferreira](https://github.com/matferreira1) |         | 11/04/2025 | Versão inicial metodologia BPMN |
+| 1.0    | Adiciona introdução BPMN      | [João Paulo Monteiro](https://github.com/joaombc) |         | 11/04/2025 | Versão inicial metodologia BPMN |
