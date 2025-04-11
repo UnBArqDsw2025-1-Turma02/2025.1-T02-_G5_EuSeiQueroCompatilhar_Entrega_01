@@ -27,8 +27,19 @@ Figura 1 - Diagrama de Causa-Efeito (Fonte: Julio Cesar, Fernando Gabriel)
 
 </center>
 
+## Referências
+
+SERRANO, Milene. *Arquitetura e Desenho de Software. AULA - PROJETO E DESENHO DE SOFTWARE.* Apresentação em Slide, 18 slides, p. [inserir páginas do conteúdo]. Disponível em: [slides](https://aprender3.unb.br/pluginfile.php/3070928/mod_page/content/5/Arquitetura%20e%20Desenho%20de%20software%20-%20Aula%20Projeto-DSW%20-%20Profa.%20Milene.pdf). Acesso em: 09/04/2025.
+
+ISHIKAWA, Kaoru. *What is Total Quality Control? The Japanese Way.* Englewood Cliffs: Prentice-Hall, 1985.
+
+INSTITUTE FOR HEALTHCARE IMPROVEMENT. *Diagrama de Causa e Efeito.* Disponível em: [https://www.ihi.org/sites/default/files/Diagrama-de-Causa-e-Efeito_Portugu%CB%86s.pdf](https://www.ihi.org/sites/default/files/Diagrama-de-Causa-e-Efeito_Portugu%CB%86s.pdf). Acesso em: 10 abr. 2025.
+
+
+
 ## Histórico de versão:
 
-| Versão | Alteração                    | Responsável     | Revisor | Data       | Detalhes da Revisão |
-|--------|------------------------------|------------------|---------|------------|----------------------|
-| 1.0    | Elaboração do documento      | [Fernando Gabriel](https://github.com/show-dawn) e [Julio Cesar](https://github.com/Julio1099) |         | 10/04/2025 | Versão inicial com o diagrama de causa-efeito |
+| Versão | Alteração                  | Responsável     | Revisor | Data       | Detalhes da Revisão |
+| -      | -                          | -               | -       | -          | -                   |
+| 1.0    | Elaboração do documento | [Júlio Cesar](https://github.com/Julio1099) e [Fernando Gabriel](https://github.com/show-dawn)| | 10/04/2025 | |
+| 1.1    | Adiciona Referências | [Júlio Cesar](https://github.com/Julio1099) e [Fernando Gabriel](https://github.com/show-dawn)| | 10/04/2025 | |
