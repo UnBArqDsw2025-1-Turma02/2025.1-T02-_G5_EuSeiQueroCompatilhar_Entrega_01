@@ -1,11 +1,15 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Projetos](/docs/Projeto/Projeto.md)
+- [Home](docs/README.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](/docs/Base/1.Base.md)
     - [1.1. Design Sprint](/docs/Base/1.1.DesignSprint.md)
+      - [Unpack](/docs/Base/1.1.1.Unpack.md)
+      - [Sketch](/docs/Base/1.1.2.Sketch.md)
+      - [Decision](/docs/Base/1.1.3.Decision.md)
+      - [Protótipo](/docs/Base/1.1.4.Prototipo.md)
+      - [Validação](/docs/Base/1.1.5.Validacao.md)
     - [1.2. Artefato Generalista](/docs/Base/1.2.ArtefatoGeneralista.md)
       - [Mapa Mental](/docs/Base/1.2.1.MapaMental.md)
       - [5W2H](/docs/Base/1.2.2.5W2H.md)
