@@ -74,4 +74,4 @@ Cambridge University Press, 1998.
 |--------|------------------------------|------------------|---------|------------|----------------------|
 | 1.0    | Elaboração do documento      | [Fernando Gabriel](https://github.com/show-dawn) e [Vitor](https://github.com/vcpVitor) |         | 10/04/2025 | Versão inicial conclusão BPMN |
 | 1.0    | Adiciona metodologia e refêrencias      | [Júlio Cesar](https://github.com/Julio1099) e [Matheus Ferreira](https://github.com/matferreira1) |         | 11/04/2025 | Versão inicial metodologia BPMN |
-| 1.0    | Adiciona introdução BPMN      | [João Paulo Monteiro](https://github.com/joaombc) |         | 11/04/2025 | Versão inicial metodologia BPMN |
+| 1.0    | Adiciona introdução BPMN      | [João Paulo Monteiro](https://github.com/joaombc) e [Igor Santana][#] |         | 11/04/2025 | Versão inicial metodologia BPMN |
