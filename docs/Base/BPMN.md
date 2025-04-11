@@ -34,13 +34,13 @@ WHITE, Stephen A.
 Business Process Modeling Notation (BPMN) – Version 1.0.
 BPMI.org, 2004.
 
-ROZANSKI, Nick; WOODS, Eóin.
-Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives.
-Addison-Wesley, 2011.
-
 HILL, Charles W. L.; JONES, Gareth R.
 Strategic Management Theory: An Integrated Approach.
 Cengage Learning, 2012.
+
+ROZANSKI, Nick; WOODS, Eóin.
+Software Systems Architecture: Working with Stakeholders Using Viewpoints and Perspectives.
+Addison-Wesley, 2011.
 
 BASS, Len; CLEMENTS, Paul; KAZMAN, Rick.
 Software Architecture in Practice.
