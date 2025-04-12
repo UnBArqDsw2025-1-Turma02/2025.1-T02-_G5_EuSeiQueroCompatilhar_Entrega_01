@@ -88,3 +88,4 @@ Cambridge University Press, 1998.
 | 1.2    | Adiciona introdução BPMN      | [João Paulo Monteiro](https://github.com/joaombc) e [Igor Santana][https://github.com/iGor-thiago] |         | 11/04/2025 | Versão inicial metodologia BPMN |
 | 1.3    | Adicionado Diagrama BPNM, corrigido texto | [Rodrigo Orlandi](https://github.com/orlandirodrigo) e [João Marques][https://github.com/jmarquees] |         | 11/04/2025 | Versão inicial metodologia BPMN |
 | 1.4    | Adicionado Diagramas BPNM restantes |  [Rodrigo Gontijo](https://github.com/rodrigogontijoo) e [Henrique Galdino][https://github.com/hgaldino05] |         | 11/04/2025 | |
+| 1.5    | Fix commit 'Adicionado Diagramas BPNM restantes' |  [Rodrigo Gontijo](https://github.com/rodrigogontijoo) e [Henrique Galdino][https://github.com/hgaldino05] |         | 11/04/2025 | |
