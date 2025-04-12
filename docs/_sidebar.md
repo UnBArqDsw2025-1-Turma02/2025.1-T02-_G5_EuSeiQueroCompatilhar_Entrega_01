@@ -4,12 +4,12 @@
 
 - **Base**
   - 1. Desenho de Software (Base)
-    - 1.1. Design Sprint Base
+    - 1.1. Design SprintBase
       - [Unpack](Base/1.1.1.Unpack.md)
       - [Sketch](Base/1.1.2.Sketch.md)
       - [Decision](Base/1.1.3.Decision.md)
-      - [Protótipo](Base/1.1.4.Prototipo.md)
-      - [Validação](Base/1.1.5.Validacao.md)
+      - [Protótipo](Base/1.1.4.Prototype.md)
+      - [Validação](Base/1.1.5.TestValidate.md)
     - 1.2. Artefato Generalista
       - [Mapa Mental](Base/1.2.1.MapaMental.md)
       - [5W2H](Base/1.2.2.5W2H.md)
