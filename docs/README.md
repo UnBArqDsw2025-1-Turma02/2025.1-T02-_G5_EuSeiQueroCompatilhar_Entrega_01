@@ -20,10 +20,28 @@
 
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+
+
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+![](/docs/Imagens/mapa-mental.jpg)
+
+<center>
+
+Figura 1 - Mapa Mental (Fonte: Rodrigo Gontijo, Vitor Pereira)
+
+</center>
+
+
+![bpmn](/docs/Imagens/bpnm.png)
+
+<center>
+
+**Figura 2**: BPMN do projeto Backseat. **Autores**: Rodrigo Orlandi, João Marques
+
+</center>
+
 
 ## Há algo a ser executado?
 
@@ -33,11 +51,9 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
-
 ## Histórico de versão:
 
 | Versão | Alteração                  | Responsável     | Revisor | Data       | Detalhes da Revisão |
 | -      | -                          | -               | -       | -          | -                   |
 | 1.0    | Elaboração do documento | [Rodrigo Gontijo](https://github.com/rodrigogontijoo)| | 11/04/2025 | |
+| 1.1    | Finalizando documento | [Rodrigo Gontijo](https://github.com/rodrigogontijoo) e [Rodrigo Orlandi](orlandirodrigo)| | 11/04/2025 | |
