@@ -23,6 +23,12 @@ O BPMN principal do projeto se apresenta a seguir:
 ![bpmn](/docs/Imagens/bpnm.png)
 **Figura 1**: BPMN do projeto Backseat. **Autores**: Rodrigo Orlandi, João Marques
 
+![](/docs/Imagens/BPMN-Login.png)
+**Figura 2**: BPMN do Login. **Autores**: Rodrigo Gontijo, Henrique Galdino
+
+![](/docs/Imagens/BPMN-Moderar.png)
+**Figura 3**: BPMN do Moderar. **Autores**: Rodrigo Gontijo, Henrique Galdino
+
 A modelagem BPMN da arquitetura da plataforma de guias de jogos seguiu uma abordagem dividida em etapas:
 
 ### Levantamento de Processos (AS-IS)
