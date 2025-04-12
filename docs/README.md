@@ -21,7 +21,11 @@
 
 ## Sobre 
 
+O projeto Backseat busca uma maneira divertida de apresentar o conhecimento adquirido e compartilhá-lo com interessados em jogos. Alguns podem ser crípticos e outros nem tanto, mas acreditamos que a experiência do jogador é válida, e pode ajudar jogadores novos e interessados em desbloquear novos níveis da jornada.
 
+Sua função principal será o compartilhamento e visualização de guias relacionados a tópicos e fases de jogos, com o intuito de deixar o conhecimento o mais acessível possível. Serão fornecidas aos usuários opções de busca de jogos, guias e dar notas a guias. 
+	
+Esperamos fornecer novas conexões e experiências únicas a quem deseja participar.
 
 ## Screenshots da Primeira Entrega
 
