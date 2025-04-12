@@ -4,7 +4,7 @@
 
 - **Base**
   - 1. Desenho de Software (Base)
-    - 1.1. Design SprintBase
+    - 1.1. Design Sprint Base
       - [Unpack](Base/1.1.1.Unpack.md)
       - [Sketch](Base/1.1.2.Sketch.md)
       - [Decision](Base/1.1.3.Decision.md)
