@@ -18,15 +18,20 @@ A notação é amplamente utilizada para mapear, analisar e melhorar processos o
 
 ## Metodologia
 
+O BPMN principal do projeto se apresenta a seguir:
+
+![bpmn](/docs/Imagens/bpnm.png)
+**Figura 1**: BPMN do projeto Backseat. **Autores**: Rodrigo Orlandi, João Marques
+
 A modelagem BPMN da arquitetura da plataforma de guias de jogos seguiu uma abordagem dividida em etapas:
 
 ### Levantamento de Processos (AS-IS)
 
-Foram identificados os principais processos relacionados à experiência do usuário, como registro/login, submissão de guia, leitura e avaliação de conteúdo. Também foram definidos os papéis de usuário (criador de conteúdo, leitor ou ambos), considerando também o processo de verificação/insígnia para diferenciar empresas de usuários comuns.
+Foram identificados os principais processos relacionados à experiência do usuário, como login, submissão de guia, leitura e avaliação de conteúdo. Também foram definidos os papéis como usuário e moderador. Apesar de não representado visualmente, foi considerado também o processo de verificação/insígnia para diferenciar empresas de usuários comuns.
 
 ### Modelagem BPMN
 
-Utilizando ferramentas como Bizagi ou Camunda, os fluxos foram representados graficamente. Foram modelados, por exemplo, os fluxos de submissão de guias (com etapas de escrita, revisão e publicação), leitura e avaliação por outros usuários (incluindo comentários e notas), e verificação de conta (solicitação, análise e concessão de insígnias).
+Utilizando o Miro como ferramenta principal, os fluxos foram representados graficamente. Foram modelados os fluxos de submissão de guias (com etapas de escrita, revisão e publicação), leitura e pesquisa. O fluxo de visualização de guias leva a avaliação por outros usuários (incluindo comentários e notas), submissão de comentários e reportar guias potencialmente inadequados. A partir de guias reportados, os moderadores podem decidir moderar o guia, o que leva a outro BPMN que, infelizmente, não foi modelado nessa entrega.
 
 ### Análise Técnica
 
@@ -73,5 +78,6 @@ Cambridge University Press, 1998.
 | Versão | Alteração                    | Responsável     | Revisor | Data       | Detalhes da Revisão |
 |--------|------------------------------|------------------|---------|------------|----------------------|
 | 1.0    | Elaboração do documento      | [Fernando Gabriel](https://github.com/show-dawn) e [Vitor](https://github.com/vcpVitor) |         | 10/04/2025 | Versão inicial conclusão BPMN |
-| 1.0    | Adiciona metodologia e refêrencias      | [Júlio Cesar](https://github.com/Julio1099) e [Matheus Ferreira](https://github.com/matferreira1) |         | 11/04/2025 | Versão inicial metodologia BPMN |
-| 1.0    | Adiciona introdução BPMN      | [João Paulo Monteiro](https://github.com/joaombc) e [Igor Santana][#] |         | 11/04/2025 | Versão inicial metodologia BPMN |
+| 1.1    | Adiciona metodologia e refêrencias      | [Júlio Cesar](https://github.com/Julio1099) e [Matheus Ferreira](https://github.com/matferreira1) |         | 11/04/2025 | Versão inicial metodologia BPMN |
+| 1.2    | Adiciona introdução BPMN      | [João Paulo Monteiro](https://github.com/joaombc) e [Igor Santana][https://github.com/iGor-thiago] |         | 11/04/2025 | Versão inicial metodologia BPMN |
+| 1.3    | Adicionado Diagrama BPNM, corrigido texto | [Rodrigo Orlandi](https://github.com/orlandirodrigo) e [João Marques][https://github.com/jmarquees] |         | 11/04/2025 | Versão inicial metodologia BPMN |
